@@ -7,15 +7,11 @@ System-Library is an open-source library management system designed to streamlin
 - **Book Management**: Add, update, delete, and search books by title, author, or category.
 - **Borrower Management**: Register and manage library members, including tracking borrowing history.
 - **Borrowing System**: Issue and return books, with automated due date calculations (e.g., 7 days from issue date).
-- **Search Functionality**: Support for partial searches (e.g., searching "Ja" to find "Java Complete Reference").
 - **User Interface**: Intuitive interface for librarians to manage library operations efficiently.
 - **Database Integration**: Store and retrieve book and member data securely.
 
 ## Technologies Used
-
-- **Backend**: \[Specify language/framework, e.g., Python with Flask, Java with Spring, PHP\]
-- **Frontend**: \[Specify if applicable, e.g., HTML, CSS, JavaScript, Bootstrap\]
-- **Database**: \[Specify, e.g., MySQL, MongoDB, SQLite\]
+- **Database**: \[MySQL\]
 - **Other Tools**: Git, \[any additional libraries or tools\]
 
 ## Installation
